@@ -1,2 +1,2 @@
 # PrivBayes
-Code obtained from SourceForge for research project in Differential Privacy.
+Converting the sourcecode from SourceForge from Java to Python.
